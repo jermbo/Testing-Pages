@@ -1,0 +1,16 @@
+{
+  "name": "testing-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jermbo/Testing-Pages.git"
+  },
+  "author": "Jermbo",
+  "license": "MIT",
+  "homepage": "https://github.com/jermbo/Testing-Pages#readme"
+}
